@@ -5,10 +5,13 @@ This is a POWERBI data analysis project aims to provide insights into the most k
 
 ![project 1](https://github.com/user-attachments/assets/b2617c7b-6adb-4167-b943-b00b7f7dfb4c)
 
+![Capture 1](https://github.com/user-attachments/assets/8f2f9acf-cff6-4bfb-92e4-56e290a50498)
+![Capture 2](https://github.com/user-attachments/assets/e7110a38-55c9-4fac-95d1-70bff0c1b1c4)
+
 
 
 ### Data Source
-The primary dataset used for this analysis is the "Dry Eye Disease.csv" file containing details information about dry disease.
+The primary dataset used for this analysis is the "Dry Eye Dataset.csv" file containing details information about dry disease.
 
 ### Tools
 - POWERBI
